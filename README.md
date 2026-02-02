@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @KanadKJ
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+This repo is related to my Btech Final year Project
 
-<!---
-KanadKJ/KanadKJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I made a Weight based acceleration control system for adding safty in scooty/Non-geared/Moped bikes.
+
+Here i have used Aurdino - Servo Motor - Acceleration locker system(ALS_V1.1)
